@@ -21,7 +21,7 @@ Put this executable file into program like `HxD` and
 Place this executable in a program like `HxD` and find the first word in it from the previous program (my name is" hello ") and click in front of the second word you want to replace.
 as you can see below:
 
-[exmaple](jaroslawroszyk.github.com/filePatcher/exampleHexEd.png)
+[exmaple](jaroslawroszyk.github.com/filePatcher/exampleHexEd.jpg)
 
 in my case I will copy the offset "77" (you can see it in the program)
 
